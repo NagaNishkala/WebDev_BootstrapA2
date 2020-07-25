@@ -1,0 +1,143 @@
+.container {
+  position: relative;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-right: 0px;
+  padding-left: 0px;
+  text-align: center;
+  /*width: 50%;*/
+}
+
+.cc1 {
+  background: #cbe1a7;
+}
+
+.cc2 {
+  background: #ec99bc;
+}
+
+.cc3 {
+  background: #d0d7e8;
+}
+
+.image {
+  display: block;
+  /*width: 100%;
+  height: auto;*/
+}
+
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 100%;
+  right: 0;
+  background-color: #749b37;
+  overflow: hidden;
+  width: 0;
+  height: 100%;
+  transition: .5s ease;
+}
+
+.o1{
+  position: absolute;
+  bottom: 0;
+  left: 100%;
+  right: 0;
+  background-color:  #f168a2;
+  overflow: hidden;
+  width: 0;
+  height: 100%;
+  transition: .5s ease;
+}
+
+.o2{
+  position: absolute;
+  bottom: 0;
+  left: 100%;
+  right: 0;
+  background-color: #6a81b5;
+  overflow: hidden;
+  width: 0;
+  height: 100%;
+  transition: .5s ease;
+}
+
+.container:hover .overlay {
+  width: 100%;
+  left: 0;
+}
+
+.text {
+  text-align: left;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  white-space: nowrap;
+}
+
+.headings {
+  color: white;
+  font-family:'Dancing Script', cursive;
+  position: absolute;
+  font-size: 200%;
+  top: 45%;
+  left: 30%;
+}
+
+.headings1 {
+  font-family:'Montserrat',sans-serif;
+  font-size: 200%;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+
+.tutz {
+  font-size: 400%;
+  font-family: 'Dancing Script',cursive;
+}
+
+.main-text {
+    position: absolute;
+    top: 50px;
+    width: 96.66666666666666%;
+    color: #FFF;
+}
+
+#footer3{
+  position: relative;
+  left: 0;
+  bottom: -10px;
+  width: 100%;
+  background: #f1efc1;
+  color: #cfcb74;
+  text-align: center;
+}
+
+.icons31{
+  margin: 1% 0.5% 0.5%;
+  color: #d8cf08;
+}
+
+.icons31:hover {
+  margin: 1% 0.5% 0.5%;
+  color: white;
+}
+
+.mainhead {
+  text-align: center;
+  font-size: 400%;
+  font-family: 'Dancing Script',cursive;
+  color: #eb2790;
+}
+
+.Main_Q {
+  font-size: 25px;
+  font-family: 'Dancing Script',cursive;
+}

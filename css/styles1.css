@@ -1,0 +1,100 @@
+/*Shopping*/
+.f1{
+  width: 50%;
+  height: auto;
+}
+
+.h11{
+  text-align: right;
+}
+
+.plants_and_seeds{
+  background: #f03673;
+}
+
+.fa-shopping-cart{
+  color: #6bc458;
+}
+
+.plants_and_seeds_h5{
+  text-align: center;
+  color: white;
+  font-size: 30px;
+  font-family: 'Montaga',sans-serif;
+  font-weight: bolder;
+  margin-top: 1%;
+}
+
+.ci1{
+  padding: 1% 10%;
+}
+
+.btn{
+  margin:1%;
+}
+
+.card-body{
+  line-height: 1;
+  font-family: sans-serif;
+}
+
+.card-header{
+  background: #f8deeb;
+  color: #eb368d;
+}
+
+.tools1{
+  background: #ddf8d1;
+}
+
+.tools_h5{
+  color: #39b206;
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Montaga',sans-serif;
+  font-weight: bolder;
+  margin-top: 1%;
+}
+
+.ch1{
+  background: #aadd94;
+  color: #389610;
+}
+
+.ga1{
+  background: #d7f3f4;
+}
+
+.ga_h5{
+  color: #5ebfc2;
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Montaga',sans-serif;
+  font-weight: bolder;
+  margin-top: 1%;
+}
+
+.ch2{
+  background: #a5d9db;
+  color: #07878b;
+}
+
+#footer2{
+  position: relative;
+  left: 0;
+  bottom: -10px;
+  width: 100%;
+  background: #f1efc1;
+  color: #cfcb74;
+  text-align: center;
+}
+
+.icons21{
+  margin: 1% 0.5% 0.5%;
+  color: #d8cf08;
+}
+
+.icons21:hover {
+  margin: 1% 0.5% 0.5%;
+  color: white;
+}

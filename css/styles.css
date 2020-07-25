@@ -1,0 +1,245 @@
+/*index.html*/
+/*Title*/
+.main-img {
+  width: 100%;
+  height: auto;
+  position: absolute;
+  left: 0;
+  z-index: -1;
+}
+
+.navbar-brand {
+  font-size: 200%;
+  font-family: 'Dancing Script', cursive;
+  margin: 0;
+  padding: 0;
+}
+
+#title {
+  background: #f8e9ed;
+}
+
+/*AboutUs*/
+.A {
+  position: absolute;
+  margin: 60% 0 0;
+}
+
+#AboutUs {
+  text-align: center;
+  background: #fff;
+  margin: 0 10%;
+}
+
+.About h2 {
+  color: #f03673;
+  margin-top: -2%;
+  margin-bottom: 4%;
+  font-family: 'Montaga', serif;
+  font-weight: 700;
+}
+
+.About h3 {
+  font-family: 'Lato', sans-serif;
+}
+
+.ftext {
+  margin-top: 5%;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+.fa-pagelines {
+  color: #6bc458;
+}
+
+.fa-pagelines:hover {
+  color: #338463;
+}
+
+.fa-heart {
+  color: #f46ca7;
+}
+
+.fa-heart:hover {
+  color: #f6a8c1;
+}
+
+.fa-cloud {
+  color: #8f8b8b;
+}
+
+.fa-cloud:hover {
+  color: #545150;
+}
+
+.fp {
+  margin-bottom: 2%;
+}
+
+/*testimonials*/
+#testimonials {
+  background: #f47198;
+  position: absolute;
+  /*margin: 80% 0 0;*/
+  text-align: center;
+  left: 0;
+}
+
+.timg {
+  width: 20%;
+  border-radius: 100%;
+}
+
+.ttext {
+  color: #fff;
+  margin: 3% 20%;
+}
+
+#testimonials p {
+  margin-top: 2%;
+  color: #fff;
+}
+
+/*Download*/
+.S2 {
+  margin: 43% 0 0;
+}
+
+#Download {
+  text-align: center;
+  background: white;
+  /*margin-top: 122%;*/
+}
+
+.Download-Button {
+  margin: 0 1% 1%;
+}
+
+.fa-apple {
+  margin: 0.005%;
+  color: #6bc458;
+}
+
+.fa-apple:hover {
+  margin: 0.005%;
+  color: #378e66;
+}
+
+.fa-google-play {
+  margin: 0.005%;
+  color: #6bc458;
+}
+
+.fa-google-play:hover {
+  margin: 0.005%;
+  color: #378e66;
+}
+
+/*Footer*/
+.icons1, .icons11 {
+  margin: 1% 0.5% 0.5%;
+  color: white;
+}
+
+.icons1:hover {
+  margin: 1% 0.5% 0.5%;
+  color: #f46ca7;
+}
+
+#footer {
+  position: relative;
+  left: 0;
+  bottom: -10px width: 100%;
+  background: #f03673;
+  color: white;
+  text-align: center;
+}
+
+.fotext {
+  margin: 1% 0;
+}
+
+@media (max-width: 1160px) {
+  .S2 {
+    margin: 50% 0 0;
+  }
+}
+
+@media (max-width: 786px) {
+  .S2 {
+    margin: 60% 0 0;
+  }
+}
+
+@media (max-width: 640px) {
+  .S2 {
+    margin: 75% 0 0;
+  }
+}
+
+@media (max-width: 340px) {
+  .main-img {
+    width: 100%;
+    height: auto;
+    position: absolute;
+    top: -50%;
+    left: 0;
+    z-index: -1;
+  }
+
+  .S2 {
+    margin: 170% 0 0;
+  }
+}
+
+/*AboutUs1.html*/
+/*Intro*/
+.Atext p {
+  padding: 2% 10% 0.5%;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+.Garden {
+  font-family: 'Dancing Script', cursive;
+  font-size: 30px;
+}
+
+/*Footer*/
+#footer1 {
+  position: relative;
+  left: 0;
+  bottom: -10px;
+  width: 100%;
+  background: #c6e6bf;
+  color: black;
+  text-align: center;
+}
+
+.icons11:hover {
+  margin: 1% 0.5% 0.5%;
+  color: #378e66;
+}
+
+.tutz {
+  font-size: 400%;
+  font-family: 'Dancing Script',cursive;
+}
+
+.main-text {
+    position: absolute;
+    top: 100px;
+    width: 96.66666666666666%;
+    color: #FFF;
+}
+
+.headings1 {
+  font-family:'Montserrat',sans-serif;
+  font-size: 200%;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
